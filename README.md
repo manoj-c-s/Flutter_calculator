@@ -1,4 +1,4 @@
 # Flutter_calculator
-Material button -relplacing of raised button
-simplification code by creating widget
+Material button -relplacing of raised button<br>
+simplification code by creating widget<br>
 logical implimentation
